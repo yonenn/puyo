@@ -1,0 +1,6 @@
+::1 - GET / HTTP/1.1 304 - - 6.193 ms
+::1 - GET / HTTP/1.1 304 - - 0.984 ms
+::1 - GET / HTTP/1.1 304 - - 0.659 ms
+::1 - GET / HTTP/1.1 304 - - 0.618 ms
+::1 - GET / HTTP/1.1 304 - - 6.989 ms
+::1 - - [07/Feb/2019:02:48:00 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
